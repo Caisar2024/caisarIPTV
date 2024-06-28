@@ -1,17 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="ext"group-title="Channels",No name
-
-#EXTINF:-1 tvg-id="ext"group-title="Channels",No name
-
-#EXTINF:-1 tvg-id="ext"group-title="Channels",No name
-
-#EXTINF:-1 tvg-id="ext"group-title="Channels",No name
-
-#EXTINF:-1 tvg-id="ext"group-title="Channels",No name
-
-#EXTINF:-1 tvg-id="ext"group-title="Channels",No name
-
-#EXTINF:-1 tvg-id="ext"group-title="Nasional",TVRI Nasional
+#EXTINF:-1 tvg-id="ext"LOKAL="Channels"
+#EXTINF:-1 tvg-id="ext"LOKAL="Nasional",TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
@@ -24,7 +13,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-id="gtv.il"group-title="Nasional",GTV
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",iNews
-https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",SCTV HD
@@ -37,18 +25,22 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",Mentari TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-#EXTINF:-1 tvg-id="ext"group-title="Nasional",ANTV
+#EXTINF:-1 tvg-id="ext"group-title="Channels",No name
 
+#EXTINF:-1 tvg-id="ext"group-title="Channels",No name
+
+#EXTINF:-1 tvg-id="ext"group-title="Channels",No name
+
+#EXTINF:-1 tvg-id="ext"group-title="Channels",No name
+
+#EXTINF:-1 tvg-id="ext"group-title="Channels",No name
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",tvOne
 https://yt.urfan.web.id/stream/yNKvkPJl-tg/master.m3u8
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",tvOne HD
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 #EXTINF:-1 tvg-id="VTV.bg"group-title="Nasional",VTV
-
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",Trans TV HD
-
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",Trans 7 HD
-
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",Trans 7
@@ -72,7 +64,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 tvg-id="NetTV.hr"group-title="Nasional",NET
 https://yt.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8
 #EXTINF:-1 tvg-id="rtvint"group-title="Nasional",RTV
-
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",Garuda TV
@@ -90,7 +81,6 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",Digione
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",RRI NET
-
 #EXTINF:-1 tvg-id="baltijos-lt"group-title="Nasional",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",GPR TV
@@ -100,17 +90,11 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",MAXSTREAM
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",SEA TODAY
-
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",iptv.urfan.web.id
-
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",Playlist Ini Gratis
-
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",Playlist Ini Tanpa Donasi
-
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",Tidak Boleh Diperjualbelikan
-
 #EXTINF:-1 tvg-id="ext"group-title="Nasional",Tidak Boleh Dibundling Untuk Jualan
-
 #EXTINF:-1 tvg-id="ext"group-title="Daerah",Bali TV
 https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #EXTINF:-1 tvg-id="ext"group-title="Daerah",JakTV
@@ -13656,584 +13640,7 @@ http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/13148
 #EXTINF:-1,PREMIER LEAGUE REPLAY #3
 http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/13149
 #EXTINF:-1,PREMIER LEAGUE REPLAY #4
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/13150
-#EXTINF:-1,PREMIER LEAGUE REPLAY #5
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/13151
-#EXTINF:-1,PREMIER LEAGUE REPLAY #6
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/13152
-#EXTINF:-1,PREMIER LEAGUE REPLAY #7
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/13153
-#EXTINF:-1,PREMIER LEAGUE REPLAY #8
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/13154
-#EXTINF:-1,PREMIER LEAGUE REPLAY #9
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/13155
-#EXTINF:-1,PREMIER LEAGUE REPLAY #10
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/13156
-#EXTINF:-1,PREMIER LEAGUE REPLAY #10
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/13157
-#EXTINF:-1,DO: Bajo Techo TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21969
-#EXTINF:-1,DO: CDN
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21970
-#EXTINF:-1,DO: CDN DEPORTES
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21971
-#EXTINF:-1,DO: Megavision
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21972
-#EXTINF:-1,DO: Microvision HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21973
-#EXTINF:-1,DO: RNN
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21974
-#EXTINF:-1,DO: Telecibao
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21975
-#EXTINF:-1,DO: Telemilenio
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21976
-#EXTINF:-1,DO: Telenord 10
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21977
-#EXTINF:-1,DO: Telenord 12
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21978
-#EXTINF:-1,DO: Teleunion
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21979
-#EXTINF:-1,DO: Teleunion
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21980
-#EXTINF:-1,DO: ZOL TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21981
-#EXTINF:-1,RD: Television Del Este
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21982
-#EXTINF:-1,RD: Tele Centro
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21983
-#EXTINF:-1,RD: CDN 37
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21984
-#EXTINF:-1,RD: Digital 15
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21985
-#EXTINF:-1,RD: Telesistema
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21986
-#EXTINF:-1,RD: AME 47
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21987
-#EXTINF:-1,RD: Telefuturo
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21988
-#EXTINF:-1,RD: Telefuturo
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21989
-#EXTINF:-1,RD: Romana Tv
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21990
-#EXTINF:-1,RD: Antena 7
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21991
-#EXTINF:-1,RD:  Teleantillas
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21992
-#EXTINF:-1,SUPER Canal 55
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21993
-#EXTINF:-1,COLOR VISION
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21994
-#EXTINF:-1,RTVD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21995
-#EXTINF:-1,Telemicro
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21996
-#EXTINF:-1,TELEMICRO INTER HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21997
-#EXTINF:-1,DANTV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21998
-#EXTINF:-1,VALLEVISION
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/21999
-#EXTINF:-1,HIT 360
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/22000
-#EXTINF:-1,Teleuniverso
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/22001
-#EXTINF:-1,Carivision
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/22002
-#EXTINF:-1,Televida
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/22003
-#EXTINF:-1,READY TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/22004
-#EXTINF:-1,Luna Tv
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/22005
-#EXTINF:-1,Vallevision
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/22006
-#EXTINF:-1,Mi Turno Tv
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/22007
-#EXTINF:-1,Canal 25
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/22008
-#EXTINF:-1,TVH
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/22009
-#EXTINF:-1,Colorvision HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/22010
-#EXTINF:-1,RD: LICEY
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/22011
-#EXTINF:-1,RD: ESCOGIDO
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/22012
-#EXTINF:-1,RD: GIGANTES
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/22013
-#EXTINF:-1,RD: TOROS
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/22014
-#EXTINF:-1,RD: ESTRELLAS
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/22015
-#EXTINF:-1,===== ROMANIA =====
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9152
-#EXTINF:-1,Agro TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9153
-#EXTINF:-1,AMC
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9154
-#EXTINF:-1,Antena 1
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9155
-#EXTINF:-1,Antena 1 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9156
-#EXTINF:-1,Antena 3
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9157
-#EXTINF:-1,Antena 3 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9158
-#EXTINF:-1,Antena Stars
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9159
-#EXTINF:-1,Antena Stars FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9160
-#EXTINF:-1,Naţional 24 Plus
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9161
-#EXTINF:-1,Naţional TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9162
-#EXTINF:-1,HAPPY CHANNEL
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9163
-#EXTINF:-1,Happy Channel HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9164
-#EXTINF:-1,BOLLYWOOD TV FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9165
-#EXTINF:-1,Bollywood TV Film
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9166
-#EXTINF:-1,BOLLYWOOD CLASIC
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9167
-#EXTINF:-1,Aleph News
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9168
-#EXTINF:-1,PRO TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9169
-#EXTINF:-1,PRO TV FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9170
-#EXTINF:-1,ProTV International
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9171
-#EXTINF:-1,PRO ARENA
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9172
-#EXTINF:-1,PRO ARENA FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9173
-#EXTINF:-1,PRO CINEMA
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9174
-#EXTINF:-1,PRO Cinema FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9175
-#EXTINF:-1,Acasa GOLD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9176
-#EXTINF:-1,ACASA
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9177
-#EXTINF:-1,ACASA FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9178
-#EXTINF:-1,Prima TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9179
-#EXTINF:-1,Prima TV FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9180
-#EXTINF:-1,PRIMA COMEDY
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9181
-#EXTINF:-1,Profit NEWS
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9182
-#EXTINF:-1,Kanal D
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9183
-#EXTINF:-1,Kanal D FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9184
-#EXTINF:-1,Kanal D2
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9185
-#EXTINF:-1,Kanal D2 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9186
-#EXTINF:-1,DIGI24 HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9187
-#EXTINF:-1,Digi24 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9188
-#EXTINF:-1,Euronews RO FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9189
-#EXTINF:-1,TVR International HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9190
-#EXTINF:-1,TVR 1
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9191
-#EXTINF:-1,TVR 1 HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9192
-#EXTINF:-1,TVR 2
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9193
-#EXTINF:-1,TVR 2 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9194
-#EXTINF:-1,TVR 3
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9195
-#EXTINF:-1,TVR CULTURAL FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9196
-#EXTINF:-1,TVR INFO FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9197
-#EXTINF:-1,Trinitas
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9198
-#EXTINF:-1,Naşul TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9199
-#EXTINF:-1,B1 TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9200
-#EXTINF:-1,B1 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9201
-#EXTINF:-1,MEDIKA TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9202
-#EXTINF:-1,Metropola TV FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9203
-#EXTINF:-1,Canal 33 HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9204
-#EXTINF:-1,Romania TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9205
-#EXTINF:-1,Romania TV FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9206
-#EXTINF:-1,Realitatea TV HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9207
-#EXTINF:-1,Realitatea Plus FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9208
-#EXTINF:-1,Realitatea Sportiva HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9209
-#EXTINF:-1,A7 TV HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9210
-#EXTINF:-1,Columna TV HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9211
-#EXTINF:-1,NCN National
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9212
-#EXTINF:-1,LinkPress TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9213
-#EXTINF:-1,ARDEAL TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9214
-#EXTINF:-1,Hora TV FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9215
-#EXTINF:-1,ETNO TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9216
-#EXTINF:-1,Favorit TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9217
-#EXTINF:-1,TARAF TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9218
-#EXTINF:-1,Taraf TV FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9219
-#EXTINF:-1,Tradiţional TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9220
-#EXTINF:-1,TV-AS
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9221
-#EXTINF:-1,Party Mix HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9222
-#EXTINF:-1,Emi Tv
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9223
-#EXTINF:-1,Rapsodia Tv
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9224
-#EXTINF:-1,Comedy Central
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9225
-#EXTINF:-1,ComedyEst
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9226
-#EXTINF:-1,AXN FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9227
-#EXTINF:-1,AXN SPIN
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9228
-#EXTINF:-1,AXN White
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9229
-#EXTINF:-1,AXN BLACK
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9230
-#EXTINF:-1,BBC First FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9231
-#EXTINF:-1,Global News
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9232
-#EXTINF:-1,Cinetronix
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9233
-#EXTINF:-1,TV 1000
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9234
-#EXTINF:-1,Diva
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9235
-#EXTINF:-1,CINEMAX 1 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9236
-#EXTINF:-1,CINEMAX 2
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9237
-#EXTINF:-1,CINEMARATON FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9238
-#EXTINF:-1,EPIC DRAMA FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9239
-#EXTINF:-1,TDC HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9240
-#EXTINF:-1,TDC FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9241
-#EXTINF:-1,Telestar
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9242
-#EXTINF:-1,Filmbox
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9243
-#EXTINF:-1,FilmBox Stars HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9244
-#EXTINF:-1,Filmbox Family
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9245
-#EXTINF:-1,FilmBox Premium
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9246
-#EXTINF:-1,FILM CAFE
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9247
-#EXTINF:-1,FILM NOW HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9248
-#EXTINF:-1,FILM NOW FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9249
-#EXTINF:-1,FilmBox Extra HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9250
-#EXTINF:-1,HBO
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9251
-#EXTINF:-1,HBO FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9252
-#EXTINF:-1,HBO 2 HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9253
-#EXTINF:-1,HBO 2 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9254
-#EXTINF:-1,HBO 3
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9255
-#EXTINF:-1,HBO 3 HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9256
-#EXTINF:-1,Warner Tv
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9257
-#EXTINF:-1,Disney Channel
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9258
-#EXTINF:-1,Disney Junior
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9259
-#EXTINF:-1,Nickelodeon
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9260
-#EXTINF:-1,Nicktoons RO
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9261
-#EXTINF:-1,Minimax Ro
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9262
-#EXTINF:-1,CARTOON NETWORK
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9263
-#EXTINF:-1,Cartoonito
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9264
-#EXTINF:-1,NICK JR
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9265
-#EXTINF:-1,BOOMERANG
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9266
-#EXTINF:-1,JIM JAM
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9267
-#EXTINF:-1,TraLaLa FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9268
-#EXTINF:-1,Duck TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9269
-#EXTINF:-1,TeenNick
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9270
-#EXTINF:-1,DaVinci
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9271
-#EXTINF:-1,DIGI SPORT 1 HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9272
-#EXTINF:-1,DIGI Sport 1 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9273
-#EXTINF:-1,DIGI SPORT 2
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9274
-#EXTINF:-1,DIGI Sport 2 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9275
-#EXTINF:-1,DIGI SPORT 3
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9276
-#EXTINF:-1,DIGI Sport 3 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9277
-#EXTINF:-1,DIGI SPORT 4
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9278
-#EXTINF:-1,DIGI Sport 4 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9279
-#EXTINF:-1,Orange Sport 1  FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9280
-#EXTINF:-1,ORANGE SPORT 2 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9281
-#EXTINF:-1,Orange Sport 3 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9282
-#EXTINF:-1,Orange Sport 4 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9283
-#EXTINF:-1,Prima Sport FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9284
-#EXTINF:-1,Prima Sport 1
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9285
-#EXTINF:-1,Prima Sport 1 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9286
-#EXTINF:-1,Prima Sport 2 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9287
-#EXTINF:-1,Prima SPORT 3 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9288
-#EXTINF:-1,PRIMA SPORT 4 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9289
-#EXTINF:-1,Prima Sport 5 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9290
-#EXTINF:-1,EUROSPORT 4K
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9291
-#EXTINF:-1,Eurosport 1 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9292
-#EXTINF:-1,Eurosport 1
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9293
-#EXTINF:-1,Eurosport 2 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9294
-#EXTINF:-1,Eurosport 2
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9295
-#EXTINF:-1,Extreme Sports Channel
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9296
-#EXTINF:-1,Auto Motor Sport
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9297
-#EXTINF:-1,Sport Extra FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9298
-#EXTINF:-1,UFC Fight
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9299
-#EXTINF:-1,FightBox HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9300
-#EXTINF:-1,Atomic TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9302
-#EXTINF:-1,Atomic Academy
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9303
-#EXTINF:-1,Balcan Music TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9304
-#EXTINF:-1,Disco Mix FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9305
-#EXTINF:-1,Eurodance 90 FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9306
-#EXTINF:-1,BAIRAM TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9307
-#EXTINF:-1,Baraza TV Classic Hits HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9308
-#EXTINF:-1,1HD Music Television
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9309
-#EXTINF:-1,Rock TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9310
-#EXTINF:-1,Mooz Hits
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9313
-#EXTINF:-1,Mooz Dance HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9314
-#EXTINF:-1,Mooz DANCE HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9315
-#EXTINF:-1,Retro Music Television
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9316
-#EXTINF:-1,H!T Music
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9317
-#EXTINF:-1,UTV FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9318
-#EXTINF:-1,ZU TV HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9319
-#EXTINF:-1,MTV Europe
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9320
-#EXTINF:-1,MTV Dance
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9321
-#EXTINF:-1,VH1 Channel
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9322
-#EXTINF:-1,1 Music Channel
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9323
-#EXTINF:-1,KISS TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9324
-#EXTINF:-1,THT MUSIC
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9325
-#EXTINF:-1,Balcan Music TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9326
-#EXTINF:-1,Deejay TV HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9327
-#EXTINF:-1,TV City
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9328
-#EXTINF:-1,TV Paprika
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9329
-#EXTINF:-1,EXPLORIS TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9330
-#EXTINF:-1,Food Network
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9331
-#EXTINF:-1,BBC Earth HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9332
-#EXTINF:-1,Love Nature HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9333
-#EXTINF:-1,ANIMAL PLANET FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9334
-#EXTINF:-1,ARCADIA WORLD HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9335
-#EXTINF:-1,CBS Reality
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9336
-#EXTINF:-1,FISHING AND HUNTING
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9337
-#EXTINF:-1,Fishing & Hunting Channel
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9338
-#EXTINF:-1,DTX
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9339
-#EXTINF:-1,TLC
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9340
-#EXTINF:-1,E! Entertainment FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9341
-#EXTINF:-1,ID INVESTIGATION DISCOVERY FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9342
-#EXTINF:-1,Crime&Investigation Network
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9343
-#EXTINF:-1,Discovery Channel
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9344
-#EXTINF:-1,DISCOVERY SCIENCE
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9345
-#EXTINF:-1,DA VINCI Kids
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9346
-#EXTINF:-1,DIGI ANIMAL WORLD HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9347
-#EXTINF:-1,DIGI LIFE HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9348
-#EXTINF:-1,Docubox FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9349
-#EXTINF:-1,MOTORSPORT FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9350
-#EXTINF:-1,DIGI WORLD FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9351
-#EXTINF:-1,HGTV FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9352
-#EXTINF:-1,History Channel
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9353
-#EXTINF:-1,HISTORY CHANNEL FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9354
-#EXTINF:-1,Viasat Explore HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9355
-#EXTINF:-1,Viasat Explore FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9356
-#EXTINF:-1,Viasat History
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9357
-#EXTINF:-1,Viasat History FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9358
-#EXTINF:-1,VIASAT NATURE HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9359
-#EXTINF:-1,Viasat Nature FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9360
-#EXTINF:-1,National Geographic
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9361
-#EXTINF:-1,Nat Geo People
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9362
-#EXTINF:-1,Nat Geo FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9363
-#EXTINF:-1,Nat Geo Wild
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9364
-#EXTINF:-1,Nat Geo Wild FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9365
-#EXTINF:-1,Travel Channel HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9366
-#EXTINF:-1,Travel MIX FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9367
-#EXTINF:-1,Travel XP HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9368
-#EXTINF:-1,TV5 Monde FHD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9369
-#EXTINF:-1,Bucovina TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9370
-#EXTINF:-1,Credo TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9371
-#EXTINF:-1,Intermedia TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9372
-#EXTINF:-1,VP TV HD
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9373
-#EXTINF:-1,Profit.ro
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9374
-#EXTINF:-1,TravelMix
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9375
-#EXTINF:-1,TV SE
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9376
-#EXTINF:-1,TVPlus Suceava
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9377
-#EXTINF:-1,TVR Cluj
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9378
-#EXTINF:-1,TVSat
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9379
-#EXTINF:-1,Iasi TV Life
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9380
-#EXTINF:-1,Spirit TV
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9381
-#EXTINF:-1,===== Moldavia =====
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9382
-#EXTINF:-1,Moldova 1
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9383
-#EXTINF:-1,Moldova 2
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9384
-#EXTINF:-1,TVR Moldova
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9385
-#EXTINF:-1,Tele Moldova Plus
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9386
-#EXTINF:-1,N4
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9387
-#EXTINF:-1,Rlive Tv
-http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9388
-#EXTINF:-1,Privesc.eu
+
 http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9389
 #EXTINF:-1,Vocea Basarabiei
 http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/9390
