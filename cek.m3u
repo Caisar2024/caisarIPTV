@@ -1,1 +1,89 @@
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",RCTI
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",MNCTV
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 tvg-id="gtv.il"group-title="Nasional",GTV
+https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",iNews
+https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",SCTV HD
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",Indosiar
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",Indosiar HD
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",Moji
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",Mentari TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",ANTV
 
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",tvOne
+https://yt.urfan.web.id/stream/yNKvkPJl-tg/master.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",tvOne HD
+https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+#EXTINF:-1 tvg-id="VTV.bg"group-title="Nasional",VTV
+
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",Trans TV HD
+
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",Trans 7 HD
+
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+#EXTINF:-1 tvg-id="Metro.pl"group-title="Nasional",Metro TV
+https://yt.urfan.web.id/stream/XKueVSGTk2o/master.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",Magna Channel
+
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",BN Channel
+
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",Metro Globe Network
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",Kompas TV
+https://yt.urfan.web.id/stream/DOOrIxw5xOw/master.m3u8
+#EXTINF:-1 tvg-id="NETTV.mt"group-title="Nasional",NET HD
+https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:-1 tvg-id="NetTV.hr"group-title="Nasional",NET
+https://yt.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8
+#EXTINF:-1 tvg-id="rtvint"group-title="Nasional",RTV
+
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",Garuda TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",IDTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",MTA TV HD
+https://yt.urfan.web.id/stream/UCIrj7gqiu8uUfgMitYFzkNg/master.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",MTA TV
+https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",DAAITV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",TV Kesehatan
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",Digione
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",RRI NET
+
+#EXTINF:-1 tvg-id="baltijos-lt"group-title="Nasional",BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",GPR TV
+https://yt.urfan.web.id/stream/UCn-Ex0zXXTVElhMr12o0zwA/master.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",Indonesiana TV
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",MAXSTREAM
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+#EXTINF:-1 tvg-id="ext"group-title="Nasional",SEA TODAY
