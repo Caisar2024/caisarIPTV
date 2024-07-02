@@ -631,3 +631,97 @@ https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmF1Csj.png" group-title="TVRI DAERAH",TVRI Yogyakarta
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
  
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/billiardtv.png" group-title="OLAHRAGA", BILLIARD TV HD 
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7I0IVPaFJIvzfaaELJIJaydTyiSTD9PNPQg&usqp=CAU" group-title="OLAHRAGA",MOTOR RACING
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="OLAHRAGA", Boxing TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png", Sportstars 2_
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png", Sportstars 3_
+https://melon-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png", Sportstars 4_
+https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="OLAHRAGA",Fight Sports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:0 tvg-logo="https://static.mncnow.id/images/channel/84189654/9280_r32.jpg" group-title="OLAHRAGA",Sportstars 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:0 tvg-logo="https://static.mncnow.id/images/channel/72cb1403/24c1_r32.jpg" group-title="OLAHRAGA",Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:0 tvg-logo="https://static.mncnow.id/images/channel/2e3fb585/eef1_r32.jpg" group-title="OLAHRAGA",Sportstars 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#EXTINF:0 tvg-logo="https://static.mncnow.id/images/channel/9abc87ac/038d_r32.jpeg" group-title="OLAHRAGA",Soccer Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" group-title="OLAHRAGA",SpoTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png" group-title="OLAHRAGA",SpoTV 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="SPORTZ" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0", beIN Sports 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvkita.my.id:25461/direct/hometv/1826
+
+#EXTINF:-1 tvg-id="beINSports2.qa" group-title="OLAHRAGA" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0", beIN Sports 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvkita.my.id:25461/direct/hometv/1827
+
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="OLAHRAGA" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0", beIN Sports 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvkita.my.id:25461/direct/hometv/1828
+
+#EXTINF:-1 tvg-id="beINSports4.qa" group-title="OLAHRAGA" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0", beIN Sports 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvkita.my.id:25461/direct/hometv/1829
+
+#EXTINF:-1 tvg-id="beINSports5.qa" group-title="OLAHRAGA" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0", beIN Sports 5 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvkita.my.id:25461/direct/hometv/1830
+
+#EXTINF:-1 tvg-id="beINSports6.qa" group-title="OLAHRAGA" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0", beIN Sports 6 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvkita.my.id:25461/direct/hometv/1831
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bBmWRBN/redbull.jpg" group-title="OLAHRAGA",Redbull Tv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/unifisports1.png" group-title="OLAHRAGA",UNIFI SPORTS(UFC)
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+
+
+
