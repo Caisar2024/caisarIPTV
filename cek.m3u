@@ -244,22 +244,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="FILM", teater 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
-http://iptvtree.net:8080/F26646/f950f250/298526
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="FILM1", teater 2
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527
-http://iptvtree.net:8080/F26646/f950f250/298527
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="FILM", teater 3
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
-http://iptvtree.net:8080/F26646/f950f250/298528
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="FILM", teater 4
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
-http://iptvtree.net:8080/F26646/f950f250/298529
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop4.m3u8
+
 
 #EXTINF:-1 tvg-id="Kids TV.id" tvg-logo="https://iili.io/JmoBUPI.png" group-title="ANAK-ANAK",Kids TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
