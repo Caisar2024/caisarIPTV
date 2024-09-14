@@ -226,7 +226,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="net.id" tvg-name="Indosiar" tvg-logo="https://static.mncnow.id/images/channel/7be23e50/34cb.png" group-title="11. INDONESIA",NET. HD TV
+#EXTINF:-1 tvg-id="net.id" tvg-name="Indosiar" tvg-logo="https://static.mncnow.id/images/channel/7be23e50/34cb.png" group-title="INDONESIA",NET. HD TV
 https://cdnjkt4.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -361,7 +361,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Elshinta_TV
 
-#EXTINF:-1 group-title="11. INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTybThr4FjdlZAavfuAEN-QOxL7jyDtxld1Sg&usqp=CAU",CNN Indonesia
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTybThr4FjdlZAavfuAEN-QOxL7jyDtxld1Sg&usqp=CAU",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
@@ -518,7 +518,7 @@ https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="MALAYSIA",Astro SuperSport 1 ts
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/197514
 
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="1. MALAYSIA",Astro SuperSport 2
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="MALAYSIA",Astro SuperSport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
 https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8
