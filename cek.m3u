@@ -187,7 +187,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/2f8a7055/0c6d.png" group-title="INDONESIA" tvg-id="RajawaliTV.id" tvg-name="RTV", RTV
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 group-title="11. INDONESIA" tvg-logo="https://static.mncnow.id/images/channel/2f8a7055/0c6d.png",RTV DN
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://static.mncnow.id/images/channel/2f8a7055/0c6d.png",RTV DN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
@@ -253,7 +253,7 @@ http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/97dc6e72/d309.png" group-title="11. INDONESIA" tvg-id="tvOne.id" tvg-name="TVOne", TVONE HD
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/97dc6e72/d309.png" group-title="INDONESIA" tvg-id="tvOne.id" tvg-name="TVOne", TVONE HD
 https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://static.mncnow.id/images/channel/97dc6e72/d309.png",TVONE HD DN
@@ -380,16 +380,16 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8?c
 
-#EXTINF:-1 group-title="11. INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",CNBC Indonesia
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1028346365_b384000_sleng.m3u8
 
-#EXTINF:-1 group-title="11. INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",CNBC Indonesia ID
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",CNBC Indonesia ID
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
 
-#EXTINF:-1 group-title="11. INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",CNBC Indonesia ID
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",CNBC Indonesia ID
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
