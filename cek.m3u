@@ -338,10 +338,10 @@ https://cdnjkt4.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png" group-title="INDONESIA",INDOSIAR 8
 http://xtv.ooo:8080/live/owais1/12345/350972.ts
 
-#EXTINF:-1 group-title="11. INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/640px-Logo_ntv.png",Nusantara TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/640px-Logo_ntv.png",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="11. INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCz5p7Ar02lg5gbjVq4YXF7fRxAiSGYLeTcA&usqp=CAU",Garuda TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCz5p7Ar02lg5gbjVq4YXF7fRxAiSGYLeTcA&usqp=CAU",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -429,28 +429,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
 
-EXTINF:-1 group-title="11. INDONESIA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRElesU7nNgMNtdxuh0UU-9kw0b5Q8kcU9IEzdWwThqJ8JOXf2ry50iVhk&s=10",MENTARI TV
+EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRElesU7nNgMNtdxuh0UU-9kw0b5Q8kcU9IEzdWwThqJ8JOXf2ry50iVhk&s=10",MENTARI TV
 http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
 
 
 ======Malaysia=======
-
-#EXTINF:-1 group-title="#0. INFO PL4YL1ST" group-logo=" https://i.ibb.co.com/L6ZwfTH/20240825-134112.png" tvg-logo="https://i.ibb.co.com/L6ZwfTH/20240825-134112.png",1. PAKET 20K 30 DAY playlist premium https://lnk.bio/pakcik1ptive
-https://bit.ly/4dV0vVx
-
-#EXTINF:-1 group-title="#0. INFO PL4YL1ST" tvg-logo="https://www.pngall.com/wp-content/uploads/2017/05/Disclaimer-Symbol-PNG-Picture.png",2. DISCLAIMER
-https://bit.ly/4fVtOcd
-
-#EXTINF:-1 group-title="#0. INFO PL4YL1ST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4PMKrwYwZ51AHTI3kquvSikgJl3cIBVBHBEhVSgIcarlv38aJCVu0KVcm&s=10",3. 0TT TUTORIAL
-https://bit.ly/4fRHeGa
-
-#EXTINF:-1 group-title="#0. INFO PL4YL1ST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXWs0BUa7LYoIUo43cEWmBhzxfiEL-q7sdetdC0crc9p7Oonz1CxcyGdBC&s=10",4. T1V1MAT TUTORIAL
-https://bit.ly/3XiXWqK
-
-#EXTINF:-1 group-title="#0. INFO PL4YL1ST" tvg-logo="https://i.ibb.co.com/DrG6p5S/20240825-181550.png",5. NICE PLAY3R TUTORIAL
-https://bit.ly/4g0BGcv
-
-
 #EXTINF:-1 group-title="1. MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Parliament_Of_Malaysia.svg/1200px-Parliament_Of_Malaysia.svg.png",Parlmen Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
